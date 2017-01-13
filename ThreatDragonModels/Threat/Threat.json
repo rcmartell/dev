@@ -1,0 +1,21 @@
+{
+  "summary": {
+    "title": "Threat"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "Threat",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ]
+  },
+  "location": {
+    "organisation": "rcmartell",
+    "repo": "dev",
+    "branch": "master",
+    "model": "Threat"
+  }
+}
