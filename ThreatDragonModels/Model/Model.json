@@ -1,0 +1,15 @@
+{
+  "summary": {
+    "title": "Model"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": []
+  },
+  "location": {
+    "organisation": "rcmartell",
+    "repo": "dev",
+    "branch": "master",
+    "model": "Model"
+  }
+}
